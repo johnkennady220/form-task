@@ -1,0 +1,67 @@
+.container{
+    background-color: #14E885;
+    border-radius: 15px;
+    /* margin-left: 50px;*/
+    /* margin-right: 80%;  */
+}
+.form{
+    
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-right: 50%;
+}
+.card-body{
+    background-color: #10f0e5;
+    border-radius: 25px;
+    
+}
+.card{
+    border: transparent;
+    border-radius: 25px;
+}
+hr{
+    margin: 0px;
+}
+.form-control{
+    margin-bottom: 5px;
+}
+.smalltext-food{
+    margin-top: -10px;
+    margin-left: 10px;
+;
+}
+
+.checkbox{
+    margin-left: 25px;
+}yii
+.btn{
+    width: 100px;
+}
+.btn:hover{
+    color:#F8FFDB;
+    background-color:#14E885;
+}
+th{
+    text-align: center;
+}
+.btn-secondary{
+    width: 30px;
+    padding: 0px;
+}
+.btn-secondary:hover{
+    background-color:gray;
+}
+td{
+    text-align: center;
+}
+.select.row.form{
+   margin-right: 50%;
+}
+@media screen and (max-width:1000px){
+    .form{
+        margin-right: 0;
+    }
+}
+hr{
+    color:black;
+}
